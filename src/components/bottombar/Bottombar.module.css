@@ -1,0 +1,45 @@
+.bottombar {
+  background: var(--bottombar-bg);
+  height: 25px;
+  border-top: 1px solid var(--bottombar-border);
+  color: rgb(225, 228, 232);
+  padding: 0 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.8rem;
+}
+
+.bottombar a {
+  color: white;
+  text-decoration: none;
+}
+
+.bottombar__container {
+  display: flex;
+  align-items: center;
+}
+
+.bottombar__item {
+  display: flex;
+  gap: 0.2rem;
+  margin-right: 0.5rem;
+  height: 24px;
+  align-items: center;
+  padding: 0 0.2rem;
+  cursor: pointer;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.bottombar__item:hover {
+  background: var(--bottombar-hover-bg);
+}
+
+@media screen and (max-width: 600px) {
+  .bottombar {
+    font-size: 0.6rem;
+  }
+  .bottombar__item {
+    margin-right: 0.5rem;
+  }
+}
