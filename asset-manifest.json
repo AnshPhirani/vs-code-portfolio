@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vs-code-portfolio/static/css/main.d3f52cef.css",
+    "main.js": "/vs-code-portfolio/static/js/main.ccae2309.js",
+    "index.html": "/vs-code-portfolio/index.html",
+    "main.d3f52cef.css.map": "/vs-code-portfolio/static/css/main.d3f52cef.css.map",
+    "main.ccae2309.js.map": "/vs-code-portfolio/static/js/main.ccae2309.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f52cef.css",
+    "static/js/main.ccae2309.js"
+  ]
+}
