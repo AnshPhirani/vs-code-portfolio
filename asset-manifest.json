@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vs-code-portfolio/static/css/main.46c164e9.css",
-    "main.js": "/vs-code-portfolio/static/js/main.e49a776f.js",
+    "main.css": "/vs-code-portfolio/static/css/main.3da5b2e4.css",
+    "main.js": "/vs-code-portfolio/static/js/main.d8e8e940.js",
     "index.html": "/vs-code-portfolio/index.html",
-    "main.46c164e9.css.map": "/vs-code-portfolio/static/css/main.46c164e9.css.map",
-    "main.e49a776f.js.map": "/vs-code-portfolio/static/js/main.e49a776f.js.map"
+    "main.3da5b2e4.css.map": "/vs-code-portfolio/static/css/main.3da5b2e4.css.map",
+    "main.d8e8e940.js.map": "/vs-code-portfolio/static/js/main.d8e8e940.js.map"
   },
   "entrypoints": [
-    "static/css/main.46c164e9.css",
-    "static/js/main.e49a776f.js"
+    "static/css/main.3da5b2e4.css",
+    "static/js/main.d8e8e940.js"
   ]
 }
