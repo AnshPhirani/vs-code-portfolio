@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vs-code-portfolio/static/css/main.94126b24.css",
+    "main.css": "/vs-code-portfolio/static/css/main.21f923c2.css",
     "main.js": "/vs-code-portfolio/static/js/main.77b3a65d.js",
     "index.html": "/vs-code-portfolio/index.html",
-    "main.94126b24.css.map": "/vs-code-portfolio/static/css/main.94126b24.css.map",
+    "main.21f923c2.css.map": "/vs-code-portfolio/static/css/main.21f923c2.css.map",
     "main.77b3a65d.js.map": "/vs-code-portfolio/static/js/main.77b3a65d.js.map"
   },
   "entrypoints": [
-    "static/css/main.94126b24.css",
+    "static/css/main.21f923c2.css",
     "static/js/main.77b3a65d.js"
   ]
 }
