@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vs-code-portfolio/static/css/main.881386e2.css",
-    "main.js": "/vs-code-portfolio/static/js/main.31494b2c.js",
+    "main.css": "/vs-code-portfolio/static/css/main.90a39662.css",
+    "main.js": "/vs-code-portfolio/static/js/main.0d1ecf84.js",
     "static/media/encode.png": "/vs-code-portfolio/static/media/encode.c9b374e6d04e6943e43f.png",
     "static/media/covid-tracker.png": "/vs-code-portfolio/static/media/covid-tracker.9e5d4fc7428c24bbc17d.png",
     "index.html": "/vs-code-portfolio/index.html",
-    "main.881386e2.css.map": "/vs-code-portfolio/static/css/main.881386e2.css.map",
-    "main.31494b2c.js.map": "/vs-code-portfolio/static/js/main.31494b2c.js.map"
+    "main.90a39662.css.map": "/vs-code-portfolio/static/css/main.90a39662.css.map",
+    "main.0d1ecf84.js.map": "/vs-code-portfolio/static/js/main.0d1ecf84.js.map"
   },
   "entrypoints": [
-    "static/css/main.881386e2.css",
-    "static/js/main.31494b2c.js"
+    "static/css/main.90a39662.css",
+    "static/js/main.0d1ecf84.js"
   ]
 }
