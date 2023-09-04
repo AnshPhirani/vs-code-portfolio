@@ -1,0 +1,19 @@
+.code {
+  counter-reset: line;
+  font-size: 1.1rem;
+  line-height: 2rem;
+}
+
+.line::before {
+  content: counter(line);
+  counter-increment: line;
+  margin-right: 1rem;
+  color: grey;
+}
+
+@media screen and (max-width: 1200px) {
+  .code {
+    font-size: 1.2rem;
+    line-height: 2.2rem;
+  }
+}

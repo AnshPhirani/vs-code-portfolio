@@ -7,7 +7,7 @@ import Bottombar from "../bottombar/Bottombar";
 import styles from "./Layout.module.css";
 import Tabsbar from "../tabsbar/Tabsbar";
 
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "../../pages/home/Home";
 import About from "../../pages/about/About";
 import Contact from "../../pages/contact/Contact";

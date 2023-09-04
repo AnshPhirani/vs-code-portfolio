@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.container * {
+  flex: 1;
+}
+
+.container__left {
+  border-right: 1px solid var(--accent-color);
+}
+
+.container h3 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+@media screen and (max-width: 1200px) {
+  .container {
+    display: block;
+  }
+  .container__left {
+    border-right: none;
+    margin-bottom: 2.5rem;
+  }
+}

@@ -1,5 +1,4 @@
 .tabs {
-  width: 100%;
   background-color: var(--tabs-bg);
   display: flex;
   overflow-x: auto;
@@ -26,8 +25,8 @@
 }
 
 .tab .icon {
-  height: 16px;
-  width: 16px;
+  height: 18px;
+  width: 18px;
 }
 .active {
   border-top: 1px solid var(--accent-color);
@@ -36,21 +35,21 @@
 }
 
 @media screen and (max-width: 900px) {
-  /* .tabs {
+  .tabs {
     width: 78vw;
-  } */
+  }
   .tab .icon {
-    height: 14px;
-    width: 14px;
+    height: 16px;
+    width: 16px;
   }
 }
 
 @media screen and (max-width: 600px) {
-  /* .tabs {
+  .tabs {
     width: 89.5vw;
-  } */
+  }
   .tab .icon {
-    height: 12px;
-    width: 12px;
+    height: 14px;
+    width: 14px;
   }
 }

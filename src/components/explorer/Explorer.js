@@ -62,7 +62,7 @@ const Explorer = () => {
         </div>
         <div
           className={styles.files}
-          style={{ visibility: isFolderOpen ? "visible" : "hidden" }}
+          style={{ display: isFolderOpen ? "block" : "none" }}
         >
           {explorerItems.map(({ name, path, Icon }) => (
             <Link to={path} key={name} style={{ textDecoration: "none" }}>

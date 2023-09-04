@@ -7,7 +7,7 @@ const ReactjsIcon = (props) => {
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
       xmlSpace="preserve"
-      xmlnsSerif="http://www.serif.com/"
+      xmlnsserif="http://www.serif.com/"
       style={{
         fillRule: "evenodd",
         clipRule: "evenodd",
@@ -25,7 +25,7 @@ const ReactjsIcon = (props) => {
         style={{ fill: "none" }}
       />
 
-      <g id="Icons1" serifId="Icons">
+      <g id="Icons1" serifid="Icons">
         <g id="Strike"></g>
 
         <g id="H1"></g>
@@ -54,7 +54,7 @@ const ReactjsIcon = (props) => {
 
         <g id="Pen"></g>
 
-        <g id="Pen1" serifId="Pen"></g>
+        <g id="Pen1" serifid="Pen"></g>
 
         <g id="clock"></g>
 
@@ -86,7 +86,7 @@ const ReactjsIcon = (props) => {
 
         <g id="shredder"></g>
 
-        <g id="spinner--loading--dots-" serifId="spinner [loading, dots]"></g>
+        <g id="spinner--loading--dots-" serifid="spinner [loading, dots]"></g>
 
         <g id="react">
           <circle
@@ -123,13 +123,13 @@ const ReactjsIcon = (props) => {
         <g id="coffee-bean"></g>
 
         <g id="coffee-beans">
-          <g id="coffee-bean1" serifId="coffee-bean"></g>
+          <g id="coffee-bean1" serifid="coffee-bean"></g>
         </g>
 
         <g id="coffee-bean-filled"></g>
 
         <g id="coffee-beans-filled">
-          <g id="coffee-bean2" serifId="coffee-bean"></g>
+          <g id="coffee-bean2" serifid="coffee-bean"></g>
         </g>
 
         <g id="clipboard"></g>
