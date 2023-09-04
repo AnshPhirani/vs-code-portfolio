@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/vs-code-portfolio/static/css/main.90a39662.css",
-    "main.js": "/vs-code-portfolio/static/js/main.0d1ecf84.js",
-    "static/media/encode.png": "/vs-code-portfolio/static/media/encode.c9b374e6d04e6943e43f.png",
-    "static/media/covid-tracker.png": "/vs-code-portfolio/static/media/covid-tracker.9e5d4fc7428c24bbc17d.png",
-    "index.html": "/vs-code-portfolio/index.html",
-    "main.90a39662.css.map": "/vs-code-portfolio/static/css/main.90a39662.css.map",
-    "main.0d1ecf84.js.map": "/vs-code-portfolio/static/js/main.0d1ecf84.js.map"
+    "main.css": "/static/css/main.90a39662.css",
+    "main.js": "/static/js/main.b598cfa9.js",
+    "static/media/github-dark.png": "/static/media/github-dark.515110eb17bfadf80049.png",
+    "static/media/dracula.png": "/static/media/dracula.656b73570e5fa6b4797f.png",
+    "static/media/encode.png": "/static/media/encode.c9b374e6d04e6943e43f.png",
+    "static/media/ayu.png": "/static/media/ayu.5414d1d8140736cf77dc.png",
+    "static/media/covid-tracker.png": "/static/media/covid-tracker.9e5d4fc7428c24bbc17d.png",
+    "static/media/night-owl.png": "/static/media/night-owl.48ff1f75febc60a3664c.png",
+    "index.html": "/index.html",
+    "main.90a39662.css.map": "/static/css/main.90a39662.css.map",
+    "main.b598cfa9.js.map": "/static/js/main.b598cfa9.js.map"
   },
   "entrypoints": [
     "static/css/main.90a39662.css",
-    "static/js/main.0d1ecf84.js"
+    "static/js/main.b598cfa9.js"
   ]
 }
