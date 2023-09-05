@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad80a8db.css",
-    "main.js": "/static/js/main.b598cfa9.js",
+    "main.css": "/static/css/main.3ab3504b.css",
+    "main.js": "/static/js/main.7b0dd685.js",
     "static/media/github-dark.png": "/static/media/github-dark.515110eb17bfadf80049.png",
     "static/media/dracula.png": "/static/media/dracula.656b73570e5fa6b4797f.png",
     "static/media/encode.png": "/static/media/encode.c9b374e6d04e6943e43f.png",
@@ -9,11 +9,11 @@
     "static/media/covid-tracker.png": "/static/media/covid-tracker.9e5d4fc7428c24bbc17d.png",
     "static/media/night-owl.png": "/static/media/night-owl.48ff1f75febc60a3664c.png",
     "index.html": "/index.html",
-    "main.ad80a8db.css.map": "/static/css/main.ad80a8db.css.map",
-    "main.b598cfa9.js.map": "/static/js/main.b598cfa9.js.map"
+    "main.3ab3504b.css.map": "/static/css/main.3ab3504b.css.map",
+    "main.7b0dd685.js.map": "/static/js/main.7b0dd685.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad80a8db.css",
-    "static/js/main.b598cfa9.js"
+    "static/css/main.3ab3504b.css",
+    "static/js/main.7b0dd685.js"
   ]
 }
