@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3ab3504b.css",
-    "main.js": "/static/js/main.fabf2c5b.js",
+    "main.js": "/static/js/main.26e82b50.js",
     "static/media/github-dark.png": "/static/media/github-dark.515110eb17bfadf80049.png",
     "static/media/dracula.png": "/static/media/dracula.656b73570e5fa6b4797f.png",
     "static/media/encode.png": "/static/media/encode.c9b374e6d04e6943e43f.png",
@@ -10,10 +10,10 @@
     "static/media/night-owl.png": "/static/media/night-owl.48ff1f75febc60a3664c.png",
     "index.html": "/index.html",
     "main.3ab3504b.css.map": "/static/css/main.3ab3504b.css.map",
-    "main.fabf2c5b.js.map": "/static/js/main.fabf2c5b.js.map"
+    "main.26e82b50.js.map": "/static/js/main.26e82b50.js.map"
   },
   "entrypoints": [
     "static/css/main.3ab3504b.css",
-    "static/js/main.fabf2c5b.js"
+    "static/js/main.26e82b50.js"
   ]
 }
