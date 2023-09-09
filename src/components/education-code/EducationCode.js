@@ -6,7 +6,7 @@ const EducationCode = ({ jsonData }) => {
       <p className={styles.line}> &#123;</p>
       {Object.keys(jsonData).map((key) => {
         return (
-          <p className={styles.line}>
+          <p className={styles.line} key={key}>
             &nbsp;&nbsp;
             <span className={styles.key}>{key}</span>:{" "}
             <span className={styles.value}>&quot;{jsonData[key]}&quot;</span>,

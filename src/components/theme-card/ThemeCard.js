@@ -4,6 +4,7 @@ const ThemeCard = ({ theme }) => {
   const changeTheme = () => {
     const root = document.documentElement;
     root.setAttribute("data-theme", theme.theme);
+    localStorage.setItem("theme", theme.theme);
   };
 
   console.log(theme.icon);

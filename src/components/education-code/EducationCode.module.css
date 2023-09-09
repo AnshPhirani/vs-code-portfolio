@@ -11,9 +11,20 @@
   color: grey;
 }
 
-@media screen and (max-width: 1200px) {
+.line > .value {
+  color: var(--accent-color);
+}
+
+/* @media screen and (max-width: 1200px) {
   .code {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     line-height: 2.2rem;
+  }
+} */
+
+@media screen and (max-width: 600px) {
+  .code {
+    font-size: 1rem;
+    line-height: 1.5rem;
   }
 }

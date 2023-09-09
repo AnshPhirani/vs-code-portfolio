@@ -5,7 +5,7 @@ const socialsData = [
   {
     social: "website",
     link: "anshphirani.me",
-    href: "https://anshphirani.github.io/vs-code-portfolio/",
+    href: "https://anshphirani.me",
   },
   {
     social: "email",

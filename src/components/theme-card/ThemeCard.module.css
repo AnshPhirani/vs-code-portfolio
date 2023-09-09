@@ -7,6 +7,12 @@
   padding: 0 1.5rem;
 }
 
+.card > img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
 .info {
   margin-top: 1rem;
   display: flex;
@@ -22,6 +28,7 @@ button {
   padding: 0.15rem 0.5rem;
   font-weight: 600;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 button:focus {

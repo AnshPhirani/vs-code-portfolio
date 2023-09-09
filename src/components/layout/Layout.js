@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Titlebar from "../titlebar/Titlebar";
 import Sidebar from "../sidebar/Sidebar";
 import Explorer from "../explorer/Explorer";
@@ -7,7 +7,7 @@ import Bottombar from "../bottombar/Bottombar";
 import styles from "./Layout.module.css";
 import Tabsbar from "../tabsbar/Tabsbar";
 
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 import Home from "../../pages/home/Home";
 import About from "../../pages/about/About";
 import Contact from "../../pages/contact/Contact";
@@ -30,8 +30,25 @@ const MyRoutes = () => (
 );
 
 const Layout = () => {
+  const location = useLocation();
+  useEffect(() => {
+    const path = location.pathname.replace("/", "");
+    if (path === "") {
+      document.title = "Ansh Phirani | Home";
+    } else {
+      document.title = `Ansh Phirani | ${
+        path.charAt(0).toUpperCase() + path.slice(1)
+      }`;
+    }
+
+    const main = document.getElementById("main__editor");
+    if (main) {
+      main.scrollTop = 0;
+    }
+  }, [location.pathname]);
+
   return (
-    <Router>
+    <>
       <Titlebar />
       <div className={styles.main}>
         <Sidebar />
@@ -44,7 +61,7 @@ const Layout = () => {
         </div>
       </div>
       <Bottombar />
-    </Router>
+    </>
   );
 };
 
