@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1ad1930.css",
-    "main.js": "/static/js/main.4f79739e.js",
-    "static/media/github-dark.png": "/static/media/github-dark.515110eb17bfadf80049.png",
-    "static/media/dracula.png": "/static/media/dracula.656b73570e5fa6b4797f.png",
-    "static/media/encode.png": "/static/media/encode.c9b374e6d04e6943e43f.png",
-    "static/media/ayu.png": "/static/media/ayu.5414d1d8140736cf77dc.png",
-    "static/media/covid-tracker.png": "/static/media/covid-tracker.9e5d4fc7428c24bbc17d.png",
-    "static/media/night-owl.png": "/static/media/night-owl.48ff1f75febc60a3664c.png",
-    "index.html": "/index.html",
-    "main.d1ad1930.css.map": "/static/css/main.d1ad1930.css.map",
-    "main.4f79739e.js.map": "/static/js/main.4f79739e.js.map"
+    "main.css": "/vs-code-portfolio/static/css/main.d1ad1930.css",
+    "main.js": "/vs-code-portfolio/static/js/main.a06f7d78.js",
+    "static/media/github-dark.png": "/vs-code-portfolio/static/media/github-dark.515110eb17bfadf80049.png",
+    "static/media/dracula.png": "/vs-code-portfolio/static/media/dracula.656b73570e5fa6b4797f.png",
+    "static/media/encode.png": "/vs-code-portfolio/static/media/encode.c9b374e6d04e6943e43f.png",
+    "static/media/ayu.png": "/vs-code-portfolio/static/media/ayu.5414d1d8140736cf77dc.png",
+    "static/media/covid-tracker.png": "/vs-code-portfolio/static/media/covid-tracker.9e5d4fc7428c24bbc17d.png",
+    "static/media/night-owl.png": "/vs-code-portfolio/static/media/night-owl.48ff1f75febc60a3664c.png",
+    "index.html": "/vs-code-portfolio/index.html",
+    "main.d1ad1930.css.map": "/vs-code-portfolio/static/css/main.d1ad1930.css.map",
+    "main.a06f7d78.js.map": "/vs-code-portfolio/static/js/main.a06f7d78.js.map"
   },
   "entrypoints": [
     "static/css/main.d1ad1930.css",
-    "static/js/main.4f79739e.js"
+    "static/js/main.a06f7d78.js"
   ]
 }
